@@ -18,6 +18,13 @@ a{
 img{
 	max-width:100%;
 }
+video{
+	
+	float:center;/**/
+	width:60%;/*无论浏览器窗口大小只占父容器的45%*/
+	margin:2.5%;/*边距总是2.5%*/
+	
+}
 h3{
 	margin:0 0 1em 0;
 	
